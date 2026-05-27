@@ -21,8 +21,4 @@ At the moment, I'm focusing on improving my backend skills on boot.dev and deepe
 
 I like learning by building small projects, experimenting, and practicing regularly.
 
-## About this profile
-
-This GitHub profile is where I share projects, learning exercises, and things I build while improving as a developer.
-
 I enjoy coding every day and I try to keep learning step by step.
