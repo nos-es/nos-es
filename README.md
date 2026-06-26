@@ -20,5 +20,3 @@ My main background is in C# and .NET. I have worked on desktop applications with
 At the moment, I'm focusing on improving my backend skills on boot.dev and deepening my understanding of software architecture, Linux, and computer science fundamentals.
 
 I like learning by building small projects, experimenting, and practicing regularly.
-
-I enjoy coding every day and I try to keep learning step by step.
