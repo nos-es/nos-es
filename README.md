@@ -1,22 +1,9 @@
 # Hi, I'm Ethem
 
-I'm a software developer who enjoys building practical software and learning something new every day.
+I'm a software developer with a background in C# and .NET. I have worked with technologies like ASP.NET, WPF, Entity Framework, SQL and Azure, mostly around backend development, desktop applications and integrations between different systems.
 
-My main background is in C# and .NET. I have worked on desktop applications with WPF, backend services with ASP.NET, databases, REST APIs, and integrations between different systems. A lot of my work has been about creating tools that make processes easier, reduce manual work, or connect existing software systems in a useful way.
+At the moment, I'm focusing more on backend development and computer science fundamentals through boot.dev. I'm also learning C, which has been a great way to get a better understanding of memory, networking and what is happening at a lower level.
 
-## Tech stack
+Linux has become a bigger part of both my development environment and my personal projects. I also spend a lot of time homelabbing, experimenting with Linux servers, self-hosted services and infrastructure.
 
-- C# / .NET
-- ASP.NET Web APIs
-- WPF
-- Entity Framework
-- SQL
-- Azure
-- Git
-- Linux
-
-## Currently
-
-At the moment, I'm focusing on improving my backend skills on boot.dev and deepening my understanding of software architecture, Linux, and computer science fundamentals.
-
-I like learning by building small projects, experimenting, and practicing regularly.
+I prefer learning by actually building things, experimenting with them and figuring out why something works or doesn't.
